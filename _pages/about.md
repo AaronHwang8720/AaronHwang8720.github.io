@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Metabolomics & Proteomics | Spectral Algorithms | Multi-omics Integration
+subtitle: Integrative Chinese & Western Medicine | Metabolomics & Proteomics | Multi-omics
 
 profile:
   align: right
